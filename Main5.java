@@ -1,3 +1,6 @@
+import mypack.animal.Dog;
+import mypack.animal.GENDER;
+
 public class Main5 {
 
     enum Season {

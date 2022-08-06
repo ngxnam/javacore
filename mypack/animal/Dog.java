@@ -1,3 +1,4 @@
+package mypack.animal;
 
 enum GENDER {
     MALE,
