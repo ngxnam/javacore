@@ -35,10 +35,10 @@ public class Homework5 {
 
     public static void main(String[] args) {
         
-        Dog dog = new Dog();
+        Dog dog = new Dog(null, null);
 
-        mypack.Employee employee = new mypack.Employee("", "", gioiTinh.NAM, 123);
-        mypack.animal.Employee emp = new mypack.animal.Employee();
+        // mypack.Employee employee = new mypack.Employee("", "", gioiTinh.NAM, 123);
+        // mypack.animal.Employee emp = new mypack.animal.Employee();
 
         Employee[] employeeList= new Employee[5];
         // employeeList[0]= new Employee("NV01", "Nguyen Van A", "01/01/2000", gioiTinh.NAM, 1000);

@@ -1,5 +1,5 @@
 import mypack.animal.Dog;
-import mypack.animal.GENDER;
+// import mypack.animal.GENDER;
 
 public class Main5 {
 
@@ -65,7 +65,7 @@ public class Main5 {
         Dog dog4 = new Dog("bec-gie", "Large", 10, "Brown");
         // Dog dog5 = new Dog();
         // Dog dog6 = new Dog();
-        dog4.gender = GENDER.MALE;
+        // dog4.gender = GENDER.MALE;
         dog4.printGender();
         dog4.print();
 
